@@ -15,7 +15,7 @@ Most of my projects involve Python, TypeScript, Go, Next.js, FastAPI, databases,
   An AI-assisted recycling platform combining computer vision, retrieval-based assistance, and reward management.
 
 - [8EH Radio ITB](https://github.com/pablonification/8ehradioitb)  
-  Campus radio platform with live audio, podcasts, editorial tools, and AI-assisted content workflows.
+  A campus radio platform with live audio, podcasts, editorial tools, and AI-assisted content workflows.
 
 - [Ecodrop](https://github.com/pablonification/ecodrop)  
   A smart recycling system connecting a mobile app, admin dashboard, computer vision validation, and IoT hardware.
